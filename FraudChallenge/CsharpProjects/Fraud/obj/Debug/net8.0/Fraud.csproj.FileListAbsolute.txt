@@ -1,0 +1,14 @@
+C:\Users\sebas\DotNet Projects\FraudChallenge\CsharpProjects\Fraud\bin\Debug\net8.0\Fraud.exe
+C:\Users\sebas\DotNet Projects\FraudChallenge\CsharpProjects\Fraud\bin\Debug\net8.0\Fraud.deps.json
+C:\Users\sebas\DotNet Projects\FraudChallenge\CsharpProjects\Fraud\bin\Debug\net8.0\Fraud.runtimeconfig.json
+C:\Users\sebas\DotNet Projects\FraudChallenge\CsharpProjects\Fraud\bin\Debug\net8.0\Fraud.dll
+C:\Users\sebas\DotNet Projects\FraudChallenge\CsharpProjects\Fraud\bin\Debug\net8.0\Fraud.pdb
+C:\Users\sebas\DotNet Projects\FraudChallenge\CsharpProjects\Fraud\obj\Debug\net8.0\Fraud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\DotNet Projects\FraudChallenge\CsharpProjects\Fraud\obj\Debug\net8.0\Fraud.AssemblyInfoInputs.cache
+C:\Users\sebas\DotNet Projects\FraudChallenge\CsharpProjects\Fraud\obj\Debug\net8.0\Fraud.AssemblyInfo.cs
+C:\Users\sebas\DotNet Projects\FraudChallenge\CsharpProjects\Fraud\obj\Debug\net8.0\Fraud.csproj.CoreCompileInputs.cache
+C:\Users\sebas\DotNet Projects\FraudChallenge\CsharpProjects\Fraud\obj\Debug\net8.0\Fraud.dll
+C:\Users\sebas\DotNet Projects\FraudChallenge\CsharpProjects\Fraud\obj\Debug\net8.0\refint\Fraud.dll
+C:\Users\sebas\DotNet Projects\FraudChallenge\CsharpProjects\Fraud\obj\Debug\net8.0\Fraud.pdb
+C:\Users\sebas\DotNet Projects\FraudChallenge\CsharpProjects\Fraud\obj\Debug\net8.0\Fraud.genruntimeconfig.cache
+C:\Users\sebas\DotNet Projects\FraudChallenge\CsharpProjects\Fraud\obj\Debug\net8.0\ref\Fraud.dll

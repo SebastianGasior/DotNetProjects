@@ -1,0 +1,14 @@
+C:\Users\sebas\DotNet Projects\ApplyBusinessRules\CsharpProjects\TestProjec\bin\Debug\net8.0\TestProjec.exe
+C:\Users\sebas\DotNet Projects\ApplyBusinessRules\CsharpProjects\TestProjec\bin\Debug\net8.0\TestProjec.deps.json
+C:\Users\sebas\DotNet Projects\ApplyBusinessRules\CsharpProjects\TestProjec\bin\Debug\net8.0\TestProjec.runtimeconfig.json
+C:\Users\sebas\DotNet Projects\ApplyBusinessRules\CsharpProjects\TestProjec\bin\Debug\net8.0\TestProjec.dll
+C:\Users\sebas\DotNet Projects\ApplyBusinessRules\CsharpProjects\TestProjec\bin\Debug\net8.0\TestProjec.pdb
+C:\Users\sebas\DotNet Projects\ApplyBusinessRules\CsharpProjects\TestProjec\obj\Debug\net8.0\TestProjec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\DotNet Projects\ApplyBusinessRules\CsharpProjects\TestProjec\obj\Debug\net8.0\TestProjec.AssemblyInfoInputs.cache
+C:\Users\sebas\DotNet Projects\ApplyBusinessRules\CsharpProjects\TestProjec\obj\Debug\net8.0\TestProjec.AssemblyInfo.cs
+C:\Users\sebas\DotNet Projects\ApplyBusinessRules\CsharpProjects\TestProjec\obj\Debug\net8.0\TestProjec.csproj.CoreCompileInputs.cache
+C:\Users\sebas\DotNet Projects\ApplyBusinessRules\CsharpProjects\TestProjec\obj\Debug\net8.0\TestProjec.dll
+C:\Users\sebas\DotNet Projects\ApplyBusinessRules\CsharpProjects\TestProjec\obj\Debug\net8.0\refint\TestProjec.dll
+C:\Users\sebas\DotNet Projects\ApplyBusinessRules\CsharpProjects\TestProjec\obj\Debug\net8.0\TestProjec.pdb
+C:\Users\sebas\DotNet Projects\ApplyBusinessRules\CsharpProjects\TestProjec\obj\Debug\net8.0\TestProjec.genruntimeconfig.cache
+C:\Users\sebas\DotNet Projects\ApplyBusinessRules\CsharpProjects\TestProjec\obj\Debug\net8.0\ref\TestProjec.dll
