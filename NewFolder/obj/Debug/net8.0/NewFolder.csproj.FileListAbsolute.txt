@@ -1,0 +1,15 @@
+C:\Projects\DotNetProjects\NewFolder\bin\Debug\net8.0\NewFolder.exe
+C:\Projects\DotNetProjects\NewFolder\bin\Debug\net8.0\NewFolder.deps.json
+C:\Projects\DotNetProjects\NewFolder\bin\Debug\net8.0\NewFolder.runtimeconfig.json
+C:\Projects\DotNetProjects\NewFolder\bin\Debug\net8.0\NewFolder.dll
+C:\Projects\DotNetProjects\NewFolder\bin\Debug\net8.0\NewFolder.pdb
+C:\Projects\DotNetProjects\NewFolder\obj\Debug\net8.0\NewFolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DotNetProjects\NewFolder\obj\Debug\net8.0\NewFolder.AssemblyInfoInputs.cache
+C:\Projects\DotNetProjects\NewFolder\obj\Debug\net8.0\NewFolder.AssemblyInfo.cs
+C:\Projects\DotNetProjects\NewFolder\obj\Debug\net8.0\NewFolder.csproj.CoreCompileInputs.cache
+C:\Projects\DotNetProjects\NewFolder\obj\Debug\net8.0\NewFolder.sourcelink.json
+C:\Projects\DotNetProjects\NewFolder\obj\Debug\net8.0\NewFolder.dll
+C:\Projects\DotNetProjects\NewFolder\obj\Debug\net8.0\refint\NewFolder.dll
+C:\Projects\DotNetProjects\NewFolder\obj\Debug\net8.0\NewFolder.pdb
+C:\Projects\DotNetProjects\NewFolder\obj\Debug\net8.0\NewFolder.genruntimeconfig.cache
+C:\Projects\DotNetProjects\NewFolder\obj\Debug\net8.0\ref\NewFolder.dll
