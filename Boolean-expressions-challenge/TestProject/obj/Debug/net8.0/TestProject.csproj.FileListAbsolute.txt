@@ -1,0 +1,15 @@
+C:\Projects\DotNetProjects\Boolean-expressions-challenge\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DotNetProjects\Boolean-expressions-challenge\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\Projects\DotNetProjects\Boolean-expressions-challenge\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\Projects\DotNetProjects\Boolean-expressions-challenge\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Projects\DotNetProjects\Boolean-expressions-challenge\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
+C:\Projects\DotNetProjects\Boolean-expressions-challenge\TestProject\bin\Debug\net8.0\TestProject.exe
+C:\Projects\DotNetProjects\Boolean-expressions-challenge\TestProject\bin\Debug\net8.0\TestProject.deps.json
+C:\Projects\DotNetProjects\Boolean-expressions-challenge\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\Projects\DotNetProjects\Boolean-expressions-challenge\TestProject\bin\Debug\net8.0\TestProject.dll
+C:\Projects\DotNetProjects\Boolean-expressions-challenge\TestProject\bin\Debug\net8.0\TestProject.pdb
+C:\Projects\DotNetProjects\Boolean-expressions-challenge\TestProject\obj\Debug\net8.0\TestProject.dll
+C:\Projects\DotNetProjects\Boolean-expressions-challenge\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+C:\Projects\DotNetProjects\Boolean-expressions-challenge\TestProject\obj\Debug\net8.0\TestProject.pdb
+C:\Projects\DotNetProjects\Boolean-expressions-challenge\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\Projects\DotNetProjects\Boolean-expressions-challenge\TestProject\obj\Debug\net8.0\ref\TestProject.dll
