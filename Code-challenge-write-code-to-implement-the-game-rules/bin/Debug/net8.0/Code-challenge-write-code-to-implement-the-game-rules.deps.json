@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Code-challenge-write-code-to-implement-the-game-rules/1.0.0": {
+        "runtime": {
+          "Code-challenge-write-code-to-implement-the-game-rules.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Code-challenge-write-code-to-implement-the-game-rules/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

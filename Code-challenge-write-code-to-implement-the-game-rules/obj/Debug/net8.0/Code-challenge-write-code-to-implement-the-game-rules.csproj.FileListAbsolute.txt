@@ -1,0 +1,15 @@
+C:\Projects\DotNetProjects\Code-challenge-write-code-to-implement-the-game-rules\bin\Debug\net8.0\Code-challenge-write-code-to-implement-the-game-rules.exe
+C:\Projects\DotNetProjects\Code-challenge-write-code-to-implement-the-game-rules\bin\Debug\net8.0\Code-challenge-write-code-to-implement-the-game-rules.deps.json
+C:\Projects\DotNetProjects\Code-challenge-write-code-to-implement-the-game-rules\bin\Debug\net8.0\Code-challenge-write-code-to-implement-the-game-rules.runtimeconfig.json
+C:\Projects\DotNetProjects\Code-challenge-write-code-to-implement-the-game-rules\bin\Debug\net8.0\Code-challenge-write-code-to-implement-the-game-rules.dll
+C:\Projects\DotNetProjects\Code-challenge-write-code-to-implement-the-game-rules\bin\Debug\net8.0\Code-challenge-write-code-to-implement-the-game-rules.pdb
+C:\Projects\DotNetProjects\Code-challenge-write-code-to-implement-the-game-rules\obj\Debug\net8.0\Code-challenge-write-code-to-implement-the-game-rules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DotNetProjects\Code-challenge-write-code-to-implement-the-game-rules\obj\Debug\net8.0\Code-challenge-write-code-to-implement-the-game-rules.AssemblyInfoInputs.cache
+C:\Projects\DotNetProjects\Code-challenge-write-code-to-implement-the-game-rules\obj\Debug\net8.0\Code-challenge-write-code-to-implement-the-game-rules.AssemblyInfo.cs
+C:\Projects\DotNetProjects\Code-challenge-write-code-to-implement-the-game-rules\obj\Debug\net8.0\Code-challenge-write-code-to-implement-the-game-rules.csproj.CoreCompileInputs.cache
+C:\Projects\DotNetProjects\Code-challenge-write-code-to-implement-the-game-rules\obj\Debug\net8.0\Code-challenge-write-code-to-implement-the-game-rules.sourcelink.json
+C:\Projects\DotNetProjects\Code-challenge-write-code-to-implement-the-game-rules\obj\Debug\net8.0\Code-challenge-write-code-to-implement-the-game-rules.dll
+C:\Projects\DotNetProjects\Code-challenge-write-code-to-implement-the-game-rules\obj\Debug\net8.0\refint\Code-challenge-write-code-to-implement-the-game-rules.dll
+C:\Projects\DotNetProjects\Code-challenge-write-code-to-implement-the-game-rules\obj\Debug\net8.0\Code-challenge-write-code-to-implement-the-game-rules.pdb
+C:\Projects\DotNetProjects\Code-challenge-write-code-to-implement-the-game-rules\obj\Debug\net8.0\Code-challenge-write-code-to-implement-the-game-rules.genruntimeconfig.cache
+C:\Projects\DotNetProjects\Code-challenge-write-code-to-implement-the-game-rules\obj\Debug\net8.0\ref\Code-challenge-write-code-to-implement-the-game-rules.dll
