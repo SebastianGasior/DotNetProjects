@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\DotNetProjects\\ApplyBusinessRules\\CsharpProjects\\TestProjec\\TestProjec.csproj": {}
+    "C:\\Projects\\DotNetProjects\\Exercise-Complete-a-challenge-activity-using-switch-statements\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\DotNetProjects\\ApplyBusinessRules\\CsharpProjects\\TestProjec\\TestProjec.csproj": {
+    "C:\\Projects\\DotNetProjects\\Exercise-Complete-a-challenge-activity-using-switch-statements\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\DotNetProjects\\ApplyBusinessRules\\CsharpProjects\\TestProjec\\TestProjec.csproj",
-        "projectName": "TestProjec",
-        "projectPath": "C:\\Projects\\DotNetProjects\\ApplyBusinessRules\\CsharpProjects\\TestProjec\\TestProjec.csproj",
+        "projectUniqueName": "C:\\Projects\\DotNetProjects\\Exercise-Complete-a-challenge-activity-using-switch-statements\\TestProject\\TestProject.csproj",
+        "projectName": "TestProject",
+        "projectPath": "C:\\Projects\\DotNetProjects\\Exercise-Complete-a-challenge-activity-using-switch-statements\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\DotNetProjects\\ApplyBusinessRules\\CsharpProjects\\TestProjec\\obj\\",
+        "outputPath": "C:\\Projects\\DotNetProjects\\Exercise-Complete-a-challenge-activity-using-switch-statements\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

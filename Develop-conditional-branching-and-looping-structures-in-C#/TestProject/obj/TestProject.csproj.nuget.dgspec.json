@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\DotNetProjects\\ApplyBusinessRules\\CsharpProjects\\TestProjec\\TestProjec.csproj": {}
+    "C:\\Projects\\DotNetProjects\\Develop-conditional-branching-and-looping-structures-in-C#\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\DotNetProjects\\ApplyBusinessRules\\CsharpProjects\\TestProjec\\TestProjec.csproj": {
+    "C:\\Projects\\DotNetProjects\\Develop-conditional-branching-and-looping-structures-in-C#\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\DotNetProjects\\ApplyBusinessRules\\CsharpProjects\\TestProjec\\TestProjec.csproj",
-        "projectName": "TestProjec",
-        "projectPath": "C:\\Projects\\DotNetProjects\\ApplyBusinessRules\\CsharpProjects\\TestProjec\\TestProjec.csproj",
+        "projectUniqueName": "C:\\Projects\\DotNetProjects\\Develop-conditional-branching-and-looping-structures-in-C#\\TestProject\\TestProject.csproj",
+        "projectName": "TestProject",
+        "projectPath": "C:\\Projects\\DotNetProjects\\Develop-conditional-branching-and-looping-structures-in-C#\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\DotNetProjects\\ApplyBusinessRules\\CsharpProjects\\TestProjec\\obj\\",
+        "outputPath": "C:\\Projects\\DotNetProjects\\Develop-conditional-branching-and-looping-structures-in-C#\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config"
